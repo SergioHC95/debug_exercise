@@ -10,7 +10,7 @@ Your task is to debug a minimal Python module in this repository. You must demon
 ## Setup
 ```bash
 git clone <REPO_URL>
-cd debug-exercise
+cd debug_exercise
 
 python3 -m venv .venv
 source .venv/bin/activate  # macOS/Linux
@@ -22,5 +22,5 @@ pip install -e .
 
 ## Run
 ```bash
-python3 -m debug_exercise --steps 200 --lr 0.1
+python3 -m debug_exercise --epochs 50 --lr 0.1
 ```
