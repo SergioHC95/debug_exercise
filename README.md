@@ -1,11 +1,10 @@
-# Research Engineer Debug Exercise (CLI + Git)
+# Coding Exercise
 
-Your task is to debug a minimal Python module in this repository. You must demonstrate basic Git workflow and run everything from the command line.
+Your task is to understand, explain, and debug a minimal Python module in this repository.
 
 ## Requirements
-- Use the CLI to run the program.
-- Clone the repo, create a feature branch, commit your fix(es), push your branch, and merge into `main`.
-- Keep changes minimal and focused.
+- Clone the repo, create a feature branch, commit your fix(es), and push your branch.
+- Use the CLI to run the program and debug as needed.
 
 ## Setup
 ```bash
